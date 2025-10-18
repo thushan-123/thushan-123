@@ -77,6 +77,8 @@
 </div>
 
 
+## 📊 Language Usage (via Metrics)
+![Thushan's Language Metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=thushan-123&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)
 
 ## ✨ Magical Quote
 

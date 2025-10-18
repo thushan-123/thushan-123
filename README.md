@@ -63,27 +63,26 @@
 
 ## 📊 GitHub Stats 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
   <!-- Overall GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=thushan-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"
-    alt="Thushan's GitHub stats" 
-    width="370" 
-    height="160" 
-    style="border-radius: 8px;"
+    alt="Thushan's GitHub stats"
+    width="350"
+    height="150"
   />
 
   <!-- GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=thushan-123&theme=tokyonight&hide_border=true&border_radius=8"
-    alt="GitHub Streak" 
-    width="370" 
-    height="160" 
-    style="border-radius: 8px;"
+    alt="GitHub Streak"
+    width="350"
+    height="150"
   />
 
 </div>
+
 
 
 

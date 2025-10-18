@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats 
 
-<div>
+<div style="display: flex; gap: 16px; flex-wrap: nowrap; justify-content: center;">
 
   <!-- Overall GitHub Stats -->
   <img 

@@ -61,6 +61,28 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> 
 </div>
 
+## 📊 GitHub Stats
+<div align="center">
+
+  <!-- Overall GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=thushan-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"
+    alt="Thushan's GitHub stats"
+    width="350"
+    height="150"
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=thushan-123&theme=tokyonight&hide_border=true&border_radius=8"
+    alt="GitHub Streak"
+    width="350"
+    height="150"
+  />
+
+</div>
+
+
 ## ✨ Magical Quote
 
 <div style="background: #f6f8fa; padding: 20px; border-radius: 8px; border-left: 4px solid #6e5494; font-style: italic; margin: 20px 0;">

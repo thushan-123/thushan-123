@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats 
 
-<div align="center">
+<div>
 
   <!-- Overall GitHub Stats -->
   <img 

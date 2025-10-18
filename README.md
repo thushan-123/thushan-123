@@ -61,11 +61,21 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> 
 </div>
 
-## 🧠 Programming Language Usage Stats
+## 📊 GitHub Stats & Language Usage
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushan-123&langs_count=8&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages by Percentage" />
+
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thushan-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Thushan's GitHub stats" width="48%">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushan-123&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="48%">
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=thushan-123&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="98%">
+  
 </div>
+
 
 
 ## ✨ Magical Quote

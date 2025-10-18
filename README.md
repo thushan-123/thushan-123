@@ -66,19 +66,18 @@
 <div align="center">
 
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thushan-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Thushan's GitHub stats" width="48%">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushan-123&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=thushan-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" 
+       alt="Thushan's GitHub stats" width="42%">
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=thushan-123&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="98%">
-  
+  <img src="https://streak-stats.demolab.com?user=thushan-123&theme=tokyonight&hide_border=true&border_radius=8" 
+       alt="GitHub Streak" width="85%">
+
 </div>
 
 
-## 📊 Language Usage (via Metrics)
-![Thushan's Language Metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=thushan-123&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)
+
+
 
 ## ✨ Magical Quote
 

@@ -61,24 +61,10 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> 
 </div>
 
-## 📊 GitHub Stats & Language Usage
+## 🧠 Programming Language Usage Stats
 
 <div align="center">
-
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thushanx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Thushan's GitHub stats" width="48%">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushanx&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="48%">
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=thushanx&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="98%">
-  
-</div>
-
-## 🕸️ Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thushanx&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushan-123&langs_count=8&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages by Percentage" />
 </div>
 
 

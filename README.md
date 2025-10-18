@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> 
 </div>
 
-## 📊 GitHub Stats & Language Usage
+## 📊 GitHub Stats 
 
 <div align="center">
 
@@ -71,7 +71,8 @@
   
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=thushan-123&theme=tokyonight&hide_border=true&border_radius=8" 
-       alt="GitHub Streak" width="85%">
+     alt="GitHub Streak" width="60%">
+
 
 </div>
 
